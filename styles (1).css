@@ -1,0 +1,25 @@
+.text-one {
+  position: absolute;
+  bottom: 600px;
+  left: 16px;
+  color: White;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.text-three {
+  position: absolute;
+  bottom: 550px;
+  left: 450px;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.text-two {
+  position: absolute;
+  bottom: 570px;
+  left: 16px;
+  color: White;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
